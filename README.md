@@ -2,7 +2,7 @@
 Configurable multi location marked bills exchange system with minigame
 
 # Download
-https://github.com/calilifeservers/cali_anchor
+https://github.com/calilifeservers/cali_exchange
 
 # Features
 The Advanced Marked Bill Exchange Script includes the following features:
